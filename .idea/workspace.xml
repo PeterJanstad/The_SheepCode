@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="HEJ GÄNGET" />
+    <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="hej gänget" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PeterJanstad"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PeterJanstad/The_SheepCode",
+    "accountId": "c6d80e25-6145-419d-a253-95724688c803"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -44,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770035546040</updated>
-      <workItem from="1770035547146" duration="356000" />
+      <workItem from="1770035547146" duration="1004000" />
     </task>
     <task id="LOCAL−00001" summary="HEJ GÄNGET">
       <option name="closed" value="true" />
@@ -67,7 +79,14 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1770035801400</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="hej gänget">
+      <option name="closed" value="true" />
+      <created>1770036137906</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1770036137906</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HEJ GÄNGET" />
-    <option name="LAST_COMMIT_MESSAGE" value="HEJ GÄNGET" />
+    <MESSAGE value="hej gänget" />
+    <option name="LAST_COMMIT_MESSAGE" value="hej gänget" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
