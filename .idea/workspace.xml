@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="" />
+    <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="HEJ GÄNGET" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -19,7 +22,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -38,11 +44,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770035546040</updated>
-      <workItem from="1770035547146" duration="1000" />
+      <workItem from="1770035547146" duration="356000" />
     </task>
+    <task id="LOCAL−00001" summary="HEJ GÄNGET">
+      <option name="closed" value="true" />
+      <created>1770035696779</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1770035696779</updated>
+    </task>
+    <task id="LOCAL−00002" summary="HEJ GÄNGET">
+      <option name="closed" value="true" />
+      <created>1770035705924</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1770035705924</updated>
+    </task>
+    <task id="LOCAL−00003" summary="HEJ GÄNGET">
+      <option name="closed" value="true" />
+      <created>1770035801400</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1770035801400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HEJ GÄNGET" />
+    <option name="LAST_COMMIT_MESSAGE" value="HEJ GÄNGET" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
