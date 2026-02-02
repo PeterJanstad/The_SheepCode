@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="funkar?">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="Merge branch 'master' of https://github.com/PeterJanstad/The_SheepCode&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,18 +129,8 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="49c20cd9-0c73-46ef-a472-14944714f91c" value="EDITOR" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="49c20cd9-0c73-46ef-a472-14944714f91c">
-          <value>
-            <State />
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State />
