@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="658ef559-9574-4641-95db-3e215242982e" name="Changes" comment="funkar?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,8 @@
       <workItem from="1770035547146" duration="1545000" />
       <workItem from="1770037189168" duration="365000" />
       <workItem from="1770037638189" duration="440000" />
-      <workItem from="1770038122097" duration="722000" />
+      <workItem from="1770038122097" duration="851000" />
+      <workItem from="1770038991684" duration="309000" />
     </task>
     <task id="LOCAL−00001" summary="HEJ GÄNGET">
       <option name="closed" value="true" />
@@ -110,7 +110,21 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1770036630089</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="funkar?">
+      <option name="closed" value="true" />
+      <created>1770038861823</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1770038861823</updated>
+    </task>
+    <task id="LOCAL−00007" summary="funkar?">
+      <option name="closed" value="true" />
+      <created>1770038904579</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1770038904579</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
